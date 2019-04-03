@@ -1,3 +1,4 @@
+Here are the 10 queries corresponding to excercise_2.pdf file:
 
 1. db.restaurants.find({'grades.score':{'$gt':70},'address.coord.0':{'$lt':-65.754168},'cuisine':{'$ne':'American '}})
 
